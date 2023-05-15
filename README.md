@@ -16,8 +16,8 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>436.1765</td>
+    <td>581.2256</td>
   </tr>
   <tr>
     <td rowspan="2"> Linear Drop Standardize</td>
@@ -33,8 +33,8 @@
   <tr>
     <td rowspan="2"> Linear Ffill</td>
     <td>2</td>
-    <td></td>
-    <td></td>
+    <td>35.2783</td>
+    <td>37.7753</td>
   </tr>
   <tr>
     <td>3</td>
