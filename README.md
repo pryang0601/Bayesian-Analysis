@@ -56,7 +56,7 @@
     <td rowspan="2"> Linear Mean</td>
     <td>2</td>
     <td>32.665</td>
-    <td></td>
+    <td>33.4680</td>
   </tr>
   <tr>
     <td>3</td>
