@@ -12,7 +12,7 @@
     <td rowspan="2"> Linear Drop</td>
     <td>2</td>
     <td>40.5113</td>
-    <td></td>
+    <td>52.4112</td>
   </tr>
   <tr>
     <td>3</td>
