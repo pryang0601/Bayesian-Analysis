@@ -22,8 +22,8 @@
   <tr>
     <td rowspan="2"> Linear Drop Standardize</td>
     <td>2</td>
-    <td></td>
-    <td></td>
+    <td>38.8828</td>
+    <td>52.1624</td>
   </tr>
   <tr>
     <td>3</td>
@@ -38,14 +38,14 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>479.0515</td>
+    <td>479.082</td>
   </tr>
   <tr>
     <td rowspan="2"> Linear Ffill Standardize</td>
     <td>2</td>
-    <td></td>
-    <td></td>
+    <td>15.3602</td>
+    <td>16.9566</td>
   </tr>
   <tr>
     <td>3</td>
@@ -60,8 +60,8 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>453.7452</td>
+    <td>450.0621</td>
   </tr>
   <tr>
     <td rowspan="2"> Linear Mean Standardize</td>
@@ -71,6 +71,6 @@
   </tr>
   <tr>
     <td>3</td>
-    <td></td>
-    <td></td>
+    <td>20.6307</td>
+    <td>84.9364</td>
   </tr>
