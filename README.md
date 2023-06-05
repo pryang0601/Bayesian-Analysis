@@ -6,13 +6,13 @@
     <th>Method</th>
     <th># of features</th>
     <th>Traing MSE</th>
-    <th>Total MSE</th>
+    <th>Testing MSE</th>
   </tr>
   <tr>
     <td rowspan="2"> Linear Drop</td>
     <td>2</td>
     <td>40.5113</td>
-    <td>64.3871</td>
+    <td>29.5659</td>
   </tr>
   <tr>
     <td>3</td>
@@ -33,8 +33,8 @@
   <tr>
     <td rowspan="2"> Linear Ffill</td>
     <td>2</td>
-    <td>35.2783</td>
-    <td>53.9773</td>
+    <td>36.789</td>
+    <td>28.2056</td>
   </tr>
   <tr>
     <td>3</td>
@@ -55,22 +55,22 @@
   <tr>
     <td rowspan="2"> Linear Mean</td>
     <td>2</td>
-    <td>32.6873</td>
-    <td>51.8371</td>
+    <td>1091.1901</td>
+    <td>701.4108</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>454.2952</td>
-    <td>522.9846</td>
+    <td>319.1601</td>
+    <td>218.4561</td>
   </tr>
   <tr>
     <td rowspan="2"> Linear Mean Standardize</td>
     <td>2</td>
-    <td>15.2055</td>
-    <td>31.0906</td>
+    <td>20.2805</td>
+    <td>43.8139</td>
   </tr>
   <tr>
     <td>3</td>
-    <td>20.6</td>
-    <td>34.6640</td>
+    <td>22.9825</td>
+    <td>45.6054</td>
   </tr>
